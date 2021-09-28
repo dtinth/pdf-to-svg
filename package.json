@@ -16,5 +16,8 @@
     "pdf-to-svg": "./index.js"
   },
   "author": "dtinth <dtinth@spacet.me>",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "index.js"
+  ]
 }
