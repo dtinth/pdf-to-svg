@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@tamuratak/domstubs": "^0.2.0",
+    "pdfjs-dist": "^2.9.359",
+    "tkt": "^2.0.0-1"
+  },
+  "name": "pdf-to-svg",
+  "version": "0.0.1-0",
+  "description": "CLI to convert PDF to SVG using mozilla/pdf.js",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "pdf-to-svg": "./index.js"
+  },
+  "author": "dtinth <dtinth@spacet.me>",
+  "license": "ISC"
+}
